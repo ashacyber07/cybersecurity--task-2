@@ -41,7 +41,7 @@ Hovering shows a different link than it claims
 No errors, but robotic tone
 🟡 Impersonal and suspicious
 
-8. Summary Table
+8. Summary :-
 Indicator	Result
 Fake sender address	✅ Spoofed (paypa1.com)
 Header mismatch	✅ SPF failed
